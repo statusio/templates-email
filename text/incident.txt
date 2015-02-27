@@ -1,0 +1,13 @@
+Status update from *|STATUSPAGENAME|*
+
+Current Status: *|CURRENTSTATUS|*
+Started: *|TIMESTART|*
+Resolved: *|TIMERESOLVE|*
+
+Affected Infrastructure:
+Components: *|AFFECTEDCOMPONENTS|*
+Locations: *|AFFECTEDCONTAINERS|*
+
+Update: *|UPDATEMESSAGE|*
+
+Status Page: *|STATUSPAGEURL|*

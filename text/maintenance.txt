@@ -1,0 +1,11 @@
+Maintenance update from *|STATUSPAGENAME|*
+
+Title: *|MAINTENANCETITLE|*
+
+Affected Infrastructure:
+Components: *|AFFECTEDCOMPONENTS|*
+Locations: *|AFFECTEDCONTAINERS|*
+
+Update: *|UPDATEMESSAGE|*
+
+Status Page: *|STATUSPAGEURL|*

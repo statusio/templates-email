@@ -1,0 +1,15 @@
+Scheduled maintenance reminder from *|STATUSPAGENAME|*
+
+Title: *|MAINTENANCETITLE|*
+
+Details: *|MAINTENANCEDETAILS|*
+
+Affected Infrastructure:
+Components: *|AFFECTEDCOMPONENTS|*
+Locations: *|AFFECTEDCONTAINERS|*
+
+Planned Start: *|TIMESTART|*
+
+Expected End: *|TIMEEND|*
+
+Status Page: *|STATUSPAGEURL|*
