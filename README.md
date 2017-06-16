@@ -47,7 +47,7 @@ Each type of notification has it's own set of available variables.
 
   - PREVIOUSSTATE
 
-  - UPDATEMESSAGE
+  - INCIDENTMESSAGE
 
   - TIMESTART
 
@@ -74,7 +74,7 @@ Each type of notification has it's own set of available variables.
 
   - MAINTENANCETITLE
 
-  - MAINTENANCEDETAILS
+  - MAINTENANCEREMINDERMESSAGE
 
   - TIMESTART
 
@@ -101,7 +101,7 @@ Each type of notification has it's own set of available variables.
 
 - MAINTENANCETITLE
 
-- UPDATEMESSAGE
+- MAINTENANCEMESSAGE
 
 - TIMESTART
 
