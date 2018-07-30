@@ -6,6 +6,6 @@ Affected Infrastructure:
 Components: *|AFFECTEDCOMPONENTS|*
 Locations: *|AFFECTEDCONTAINERS|*
 
-Update: *|UPDATEMESSAGE|*
+Update: *|MAINTENANCEMESSAGE|*
 
 Status Page: *|STATUSPAGEURL|*

@@ -2,7 +2,7 @@ Scheduled maintenance reminder from *|STATUSPAGENAME|*
 
 Title: *|MAINTENANCETITLE|*
 
-Details: *|MAINTENANCEDETAILS|*
+Details: *|MAINTENANCEREMINDERMESSAGE|*
 
 Affected Infrastructure:
 Components: *|AFFECTEDCOMPONENTS|*

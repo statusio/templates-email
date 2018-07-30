@@ -8,6 +8,6 @@ Affected Infrastructure:
 Components: *|AFFECTEDCOMPONENTS|*
 Locations: *|AFFECTEDCONTAINERS|*
 
-Update: *|UPDATEMESSAGE|*
+Update: *|INCIDENTMESSAGE|*
 
 Status Page: *|STATUSPAGEURL|*
